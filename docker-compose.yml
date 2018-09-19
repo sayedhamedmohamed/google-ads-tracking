@@ -1,0 +1,25 @@
+version: '3'
+services:
+  db:
+    image: mongo
+    container_name: mongo
+    volumes:
+        - /data/db:/data/db
+    ports:
+      - "27017:27017"
+    networks:
+      - weq
+#services:
+  weq:
+    build:
+    image: weqadstracker
+    container_name: weqadstracker
+    ports:
+      - "8080:8080"
+    networks:
+     - weq
+    depends_on:
+      - db
+networks:
+  weq:
+    driver: bridge

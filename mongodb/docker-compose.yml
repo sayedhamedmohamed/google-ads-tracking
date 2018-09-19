@@ -1,0 +1,19 @@
+version: '3'
+services:
+  db:
+    image: mongo
+    container_name: mongo
+    volumes:
+        - /var/lib/mongo
+        - /opt/data:/var/lib/mongo
+        - ./cashe:/tmp/cache
+        #- datavolume:/var/lib/mongo       
+
+    ports:
+      - "27017:27017"
+    networks:
+      - weq
+
+networks:
+  weq:
+    external: true

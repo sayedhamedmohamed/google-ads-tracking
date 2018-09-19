@@ -1,0 +1,2316 @@
+[
+  {
+    "symbolicName": "javassist",
+    "version": {
+      "major": 3,
+      "minor": 21,
+      "micro": 0,
+      "qualifier": "GA"
+    },
+    "jarFileFingerprint": "598244f595db5c5fb713731eddbb1c91a58d959b",
+    "jarFileModificationDate": "2018-05-16T16:38:55+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.springframework.boot.spring-boot-test-autoconfigure",
+    "version": {
+      "major": 1,
+      "minor": 5,
+      "micro": 13,
+      "qualifier": "RELEASE"
+    },
+    "jarFileFingerprint": "dee40ade119e2d69de4595b0c8becd71ad75b6ea",
+    "jarFileModificationDate": "2018-08-14T00:05:26+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/boot/spring-boot-test-autoconfigure/1.5.13.RELEASE/spring-boot-test-autoconfigure-1.5.13.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-core-4.3.17.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "77814c99de6f8282c64a4d604024c70e238037ae",
+    "jarFileModificationDate": "2018-08-14T00:05:32+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/spring-core/4.3.17.RELEASE/spring-core-4.3.17.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "63ddd86df0bfd0da7b3ee4fef470007befcf9978",
+    "jarFileModificationDate": "2018-04-27T19:27:01+02:00",
+    "location": "/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-core-5.0.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2221a957b5561a34f044350ba4e30ef5870254a3",
+    "jarFileModificationDate": "2018-08-16T00:36:38+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/spring-core/5.0.4.RELEASE/spring-core-5.0.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-messaging-4.3.17.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "dbf1fd3a46a98eb672001dce7a4550014888d151",
+    "jarFileModificationDate": "2018-08-14T10:21:43+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/spring-messaging/4.3.17.RELEASE/spring-messaging-4.3.17.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-boot-starter-data-mongodb-2.0.0.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0d001f35e9c36153966d59a64b29ae2abc451ea4",
+    "jarFileModificationDate": "2018-08-16T00:35:11+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/boot/spring-boot-starter-data-mongodb/2.0.0.RELEASE/spring-boot-starter-data-mongodb-2.0.0.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-boot-starter-tomcat-2.0.0.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "908bc9de1a7cfa857edf44182d426f6e0d8a3008",
+    "jarFileModificationDate": "2018-08-16T00:36:02+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/boot/spring-boot-starter-tomcat/2.0.0.RELEASE/spring-boot-starter-tomcat-2.0.0.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.mapstruct",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "8609d6eb044e9f6c73cb24c8f2f4ed5c72a249c7",
+    "jarFileModificationDate": "2018-05-16T16:39:01+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/mapstruct/mapstruct/1.2.0.Final/mapstruct-1.2.0.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "ch.qos.logback.core",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "864344400c3d4d92dfeb0a305dc87d953677c03c",
+    "jarFileModificationDate": "2018-05-16T16:41:31+02:00",
+    "location": "/home/sayedhamed/.m2/repository/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-context-5.0.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3e76d08c851113077642c5704f0f94d5ce58e905",
+    "jarFileModificationDate": "2018-08-16T00:35:46+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/spring-context/5.0.4.RELEASE/spring-context-5.0.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.reflections",
+    "version": {
+      "major": 0,
+      "minor": 9,
+      "micro": 11,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4c686033d918ec1727e329b7222fcb020152e32b",
+    "jarFileModificationDate": "2018-05-16T16:38:54+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/reflections/reflections/0.9.11/reflections-0.9.11.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "24759f23f6586202a44edfca5692132b0b8f2d85",
+    "jarFileModificationDate": "2018-04-27T19:27:01+02:00",
+    "location": "/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.springframework.boot.spring-boot-starter-logging",
+    "version": {
+      "major": 1,
+      "minor": 5,
+      "micro": 13,
+      "qualifier": "RELEASE"
+    },
+    "jarFileFingerprint": "1784b184be3b59ad81ec6ac54d03c950f3d5c263",
+    "jarFileModificationDate": "2018-08-14T00:04:49+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/boot/spring-boot-starter-logging/1.5.13.RELEASE/spring-boot-starter-logging-1.5.13.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "mongodb-driver-3.6.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d462fcc4640ac69b35e7cd2491e992c6bdf82862",
+    "jarFileModificationDate": "2018-05-16T16:41:32+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/mongodb/mongodb-driver/3.6.3/mongodb-driver-3.6.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1331cf7a976850e50b05dd400a141665a2e1d945",
+    "jarFileModificationDate": "2018-04-27T19:27:01+02:00",
+    "location": "/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "hamcrest-library-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4785a3c21320980282f9f33d0d1264a69040538f",
+    "jarFileModificationDate": "2018-05-16T11:20:43+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.fasterxml.jackson.core.jackson-core",
+    "version": {
+      "major": 2,
+      "minor": 8,
+      "micro": 11,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "876ead1db19f0c9e79c9789273a3ef8c6fd6c29b",
+    "jarFileModificationDate": "2018-05-16T11:17:01+02:00",
+    "location": "/home/sayedhamed/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.8.11/jackson-core-2.8.11.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "net.minidev.accessors-smart",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a527213f2fea112a04c9bdf0ec0264e34104cd08",
+    "jarFileModificationDate": "2018-05-16T11:19:53+02:00",
+    "location": "/home/sayedhamed/.m2/repository/net/minidev/accessors-smart/1.1/accessors-smart-1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-context-4.3.17.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "68b87279ada66e04df251917c839a604ceff82f0",
+    "jarFileModificationDate": "2018-08-14T00:05:02+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/spring-context/4.3.17.RELEASE/spring-context-4.3.17.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.fasterxml.classmate",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "03d5f48f10bbe4eb7bd862f10c0583be2e0053c6",
+    "jarFileModificationDate": "2018-05-16T11:16:47+02:00",
+    "location": "/home/sayedhamed/.m2/repository/com/fasterxml/classmate/1.3.4/classmate-1.3.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.fasterxml.jackson.datatype.jackson-datatype-jsr310",
+    "version": {
+      "major": 2,
+      "minor": 9,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "12d52679a6615c7972ea25bd8ebb60b191fe79b7",
+    "jarFileModificationDate": "2018-05-16T15:35:29+02:00",
+    "location": "/home/sayedhamed/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.9.4/jackson-datatype-jsr310-2.9.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "springfox-swagger-common-2.8.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e0fc6a0096eb8d40fac7cc8206ddbb2fe73051d2",
+    "jarFileModificationDate": "2018-05-16T16:38:53+02:00",
+    "location": "/home/sayedhamed/.m2/repository/io/springfox/springfox-swagger-common/2.8.0/springfox-swagger-common-2.8.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.springframework.boot.spring-boot-starter-test",
+    "version": {
+      "major": 1,
+      "minor": 5,
+      "micro": 13,
+      "qualifier": "RELEASE"
+    },
+    "jarFileFingerprint": "d95942a1b5650e9a4ec83f64642c8720adabfdb2",
+    "jarFileModificationDate": "2018-08-14T00:05:25+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/boot/spring-boot-starter-test/1.5.13.RELEASE/spring-boot-starter-test-1.5.13.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.channelvas.fintech.fintech-core",
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "micro": 1,
+      "qualifier": "SNAPSHOT"
+    },
+    "jarFileFingerprint": "3d6ec1bfa271d732b6dc5699f565678406b9f7af",
+    "jarFileModificationDate": "2018-08-16T09:51:09+02:00",
+    "location": "/home/sayedhamed/.m2/repository/com/channelvas/fintech/fintech-core/0.0.1-SNAPSHOT/fintech-core-0.0.1-SNAPSHOT.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.springframework.boot.spring-boot-starter-amqp",
+    "version": {
+      "major": 1,
+      "minor": 5,
+      "micro": 13,
+      "qualifier": "RELEASE"
+    },
+    "jarFileFingerprint": "db3bd9bf3627de42bd64500e82dd849fea6fa738",
+    "jarFileModificationDate": "2018-08-14T10:21:42+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/boot/spring-boot-starter-amqp/1.5.13.RELEASE/spring-boot-starter-amqp-1.5.13.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "tomcat-embed-el-8.5.28",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "75745598f60646ccf0c4b105468a9c8be9b8432e",
+    "jarFileModificationDate": "2018-05-16T15:38:20+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/apache/tomcat/embed/tomcat-embed-el/8.5.28/tomcat-embed-el-8.5.28.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jbcrypt-0.3m",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fe2d9c5f23767d681a7e38fc8986b812400ec583",
+    "jarFileModificationDate": "2018-05-16T11:21:45+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/mindrot/jbcrypt/0.3m/jbcrypt-0.3m.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.jboss.logging.jboss-logging",
+    "version": {
+      "major": 3,
+      "minor": 3,
+      "micro": 2,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "3789d00e859632e6c6206adc0c71625559e6e3b0",
+    "jarFileModificationDate": "2018-05-16T11:16:46+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/jboss/logging/jboss-logging/3.3.2.Final/jboss-logging-3.3.2.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-boot-starter-web-2.0.0.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fcb2a9e18f98382e626935841f85ed44d7153615",
+    "jarFileModificationDate": "2018-08-16T00:36:01+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/boot/spring-boot-starter-web/2.0.0.RELEASE/spring-boot-starter-web-2.0.0.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "springfox-swagger2-2.8.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "27fbca30912258ce0e31cd56361f732f6c27d5ff",
+    "jarFileModificationDate": "2018-05-16T16:38:51+02:00",
+    "location": "/home/sayedhamed/.m2/repository/io/springfox/springfox-swagger2/2.8.0/springfox-swagger2-2.8.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 10,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4b95f4897fa13f2cd904aee711aeafc0c5295cd8",
+    "jarFileModificationDate": "2018-05-16T11:17:47+02:00",
+    "location": "/home/sayedhamed/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.springframework.data.spring-data-rest-core",
+    "version": {
+      "major": 2,
+      "minor": 6,
+      "micro": 12,
+      "qualifier": "RELEASE"
+    },
+    "jarFileFingerprint": "a035d35b5481baf89b2b9676a1a2a59a579fbebb",
+    "jarFileModificationDate": "2018-08-14T10:21:42+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/data/spring-data-rest-core/2.6.12.RELEASE/spring-data-rest-core-2.6.12.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "tomcat-embed-core-8.5.31",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f5adf7ed8c34aa005b22b6a2dc7b6796e10e9c79",
+    "jarFileModificationDate": "2018-05-16T11:16:34+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/8.5.31/tomcat-embed-core-8.5.31.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "http-client-1.1.1.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a3c71766981a70137aa4570e3830c542a7631d3e",
+    "jarFileModificationDate": "2018-05-16T11:17:36+02:00",
+    "location": "/home/sayedhamed/.m2/repository/com/rabbitmq/http-client/1.1.1.RELEASE/http-client-1.1.1.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "net.objecthunter.exp4j",
+    "version": {
+      "major": 0,
+      "minor": 4,
+      "micro": 8,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cf1cfc0f958077d86ac7452c7e36d944689b2ec4",
+    "jarFileModificationDate": "2018-05-16T16:38:50+02:00",
+    "location": "/home/sayedhamed/.m2/repository/net/objecthunter/exp4j/0.4.8/exp4j-0.4.8.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-tx-4.3.17.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "31b31e13fceadb816d1ab15ec226fa351d72b663",
+    "jarFileModificationDate": "2018-08-14T00:04:56+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/spring-tx/4.3.17.RELEASE/spring-tx-4.3.17.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javax.validation.api",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "8613ae82954779d518631e05daa73a6a954817d5",
+    "jarFileModificationDate": "2018-05-16T11:16:44+02:00",
+    "location": "/home/sayedhamed/.m2/repository/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "springfox-data-rest-2.8.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e8d1c86cbd34f5c21640624d0258d3bcb4724fe0",
+    "jarFileModificationDate": "2018-05-16T16:39:11+02:00",
+    "location": "/home/sayedhamed/.m2/repository/io/springfox/springfox-data-rest/2.8.0/springfox-data-rest-2.8.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.springframework.boot.spring-boot-starter-tomcat",
+    "version": {
+      "major": 1,
+      "minor": 5,
+      "micro": 13,
+      "qualifier": "RELEASE"
+    },
+    "jarFileFingerprint": "880f4c4af539e228091babfb0e5aaea18130f6f6",
+    "jarFileModificationDate": "2018-08-14T00:05:13+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/boot/spring-boot-starter-tomcat/1.5.13.RELEASE/spring-boot-starter-tomcat-1.5.13.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ef4e26c0a570989605858d4e35148fc9b8c7810b",
+    "jarFileModificationDate": "2018-04-27T19:27:01+02:00",
+    "location": "/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "slf4j.api",
+    "version": {
+      "major": 1,
+      "minor": 7,
+      "micro": 25,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "da76ca59f6a57ee3102f8f9bd9cee742973efa8a",
+    "jarFileModificationDate": "2018-05-16T11:21:51+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d6602f2e5b1092258dba60c76196e774d54bc052",
+    "jarFileModificationDate": "2018-04-27T19:27:01+02:00",
+    "location": "/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "kafka-clients-0.10.1.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "52f03b809c26f9676ddfcf130f13c80dfc929b98",
+    "jarFileModificationDate": "2018-05-16T11:18:27+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/apache/kafka/kafka-clients/0.10.1.1/kafka-clients-0.10.1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.hibernate.validator.hibernate-validator",
+    "version": {
+      "major": 6,
+      "minor": 0,
+      "micro": 7,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "08b9d9c7ec8c73963ea0fe81912fc67711a4ef76",
+    "jarFileModificationDate": "2018-05-16T15:38:23+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/hibernate/validator/hibernate-validator/6.0.7.Final/hibernate-validator-6.0.7.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.springframework.data.core",
+    "version": {
+      "major": 1,
+      "minor": 13,
+      "micro": 12,
+      "qualifier": "RELEASE"
+    },
+    "jarFileFingerprint": "bb6e642798d587160a4e6ff8a90048285dde2ba2",
+    "jarFileModificationDate": "2018-08-14T00:05:12+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/data/spring-data-commons/1.13.12.RELEASE/spring-data-commons-1.13.12.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "aerospike-helper-java-1.2.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e8b81b9f153e5100402519b91558a3df71d8f042",
+    "jarFileModificationDate": "2018-05-16T11:25:36+02:00",
+    "location": "/home/sayedhamed/.m2/repository/com/aerospike/aerospike-helper-java/1.2.2/aerospike-helper-java-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-boot-test-autoconfigure-2.0.0.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "db0595321e96929d9473cf061f3408972d03c6aa",
+    "jarFileModificationDate": "2018-08-16T00:36:25+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/boot/spring-boot-test-autoconfigure/2.0.0.RELEASE/spring-boot-test-autoconfigure-2.0.0.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.fasterxml.jackson.datatype.jackson-datatype-jdk8",
+    "version": {
+      "major": 2,
+      "minor": 9,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "63ac052d52a70a15820d3dc07ea757826fd51d40",
+    "jarFileModificationDate": "2018-05-16T15:35:29+02:00",
+    "location": "/home/sayedhamed/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.9.4/jackson-datatype-jdk8-2.9.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "springfox-spring-web-2.8.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cb2ce464b07919158dde1ad40f72cca9c364559b",
+    "jarFileModificationDate": "2018-05-16T16:38:53+02:00",
+    "location": "/home/sayedhamed/.m2/repository/io/springfox/springfox-spring-web/2.8.0/springfox-spring-web-2.8.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.fasterxml.jackson.module.jackson-module-parameter-names",
+    "version": {
+      "major": 2,
+      "minor": 9,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5833c819877c3e85bad847f4d2fa4e70379217c6",
+    "jarFileModificationDate": "2018-05-16T15:35:29+02:00",
+    "location": "/home/sayedhamed/.m2/repository/com/fasterxml/jackson/module/jackson-module-parameter-names/2.9.4/jackson-module-parameter-names-2.9.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.guava",
+    "version": {
+      "major": 20,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "89507701249388e1ed5ddcf8c41f4ce1be7831ef",
+    "jarFileModificationDate": "2018-05-16T16:39:01+02:00",
+    "location": "/home/sayedhamed/.m2/repository/com/google/guava/guava/20.0/guava-20.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.aerospike.aerospike-client",
+    "version": {
+      "major": 4,
+      "minor": 1,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d6f6f8aadd2c74f8345d9ddfe5be901b030c3c7a",
+    "jarFileModificationDate": "2018-05-16T11:25:35+02:00",
+    "location": "/home/sayedhamed/.m2/repository/com/aerospike/aerospike-client/4.1.3/aerospike-client-4.1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.fasterxml.jackson.core.jackson-annotations",
+    "version": {
+      "major": 2,
+      "minor": 9,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "07c10d545325e3a6e72e06381afe469fd40eb701",
+    "jarFileModificationDate": "2018-05-16T15:35:30+02:00",
+    "location": "/home/sayedhamed/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.objenesis",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "87c0ea803b69252868d09308b4618f766f135a96",
+    "jarFileModificationDate": "2018-05-16T11:20:35+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/objenesis/objenesis/2.1/objenesis-2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5d1e0818ea56ae98225340dab987dccf942608bc",
+    "jarFileModificationDate": "2018-04-27T19:27:01+02:00",
+    "location": "/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "com.aerospike.spring-data-aerospike",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": "RELEASE"
+    },
+    "jarFileFingerprint": "6d7efab92ec9682b90f20a7daee981f200150ffe",
+    "jarFileModificationDate": "2018-05-16T11:25:32+02:00",
+    "location": "/home/sayedhamed/.m2/repository/com/aerospike/spring-data-aerospike/1.2.1.RELEASE/spring-data-aerospike-1.2.1.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-boot-starter-test-2.0.0.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4ff0e1d9bd315a4a5867e9c6128691cac8b37348",
+    "jarFileModificationDate": "2018-08-16T00:36:22+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/boot/spring-boot-starter-test/2.0.0.RELEASE/spring-boot-starter-test-2.0.0.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-tx-5.0.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7afc193c5d2b812ee6d2ccaf6fcc81fb83bfb4a7",
+    "jarFileModificationDate": "2018-08-16T00:35:39+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/spring-tx/5.0.4.RELEASE/spring-tx-5.0.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-beans-5.0.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7a8c3d48d4c33621e64d1399721d8e067450fcbd",
+    "jarFileModificationDate": "2018-08-16T00:35:51+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "io.swagger.models",
+    "version": {
+      "major": 1,
+      "minor": 5,
+      "micro": 14,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "581d784b65e82cee5bf3e91d193d3f9c0c702453",
+    "jarFileModificationDate": "2018-05-16T16:38:51+02:00",
+    "location": "/home/sayedhamed/.m2/repository/io/swagger/swagger-models/1.5.14/swagger-models-1.5.14.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.springframework.data.spring-data-rest-webmvc",
+    "version": {
+      "major": 2,
+      "minor": 6,
+      "micro": 12,
+      "qualifier": "RELEASE"
+    },
+    "jarFileFingerprint": "7b3efdef8ed9dae71c46c13a41222360728a0653",
+    "jarFileModificationDate": "2018-08-14T10:21:41+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/data/spring-data-rest-webmvc/2.6.12.RELEASE/spring-data-rest-webmvc-2.6.12.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "ch.qos.logback.classic",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7c4f3c474fb2c041d8028740440937705ebb473a",
+    "jarFileModificationDate": "2018-05-16T16:41:29+02:00",
+    "location": "/home/sayedhamed/.m2/repository/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.springframework.boot.spring-boot-starter-data-mongodb",
+    "version": {
+      "major": 1,
+      "minor": 5,
+      "micro": 13,
+      "qualifier": "RELEASE"
+    },
+    "jarFileFingerprint": "9774eec6c78aef195028fc8cc85bd870222a2c1e",
+    "jarFileModificationDate": "2018-08-14T00:04:40+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/boot/spring-boot-starter-data-mongodb/1.5.13.RELEASE/spring-boot-starter-data-mongodb-1.5.13.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-expression-5.0.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4bda161f2e34c1486f2527a23eb47293567f473c",
+    "jarFileModificationDate": "2018-08-16T00:35:54+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/spring-expression/5.0.4.RELEASE/spring-expression-5.0.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "commons-io",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b6dde38349ba9bb5e6ea6320531eae969985dae5",
+    "jarFileModificationDate": "2018-05-16T11:21:52+02:00",
+    "location": "/home/sayedhamed/.m2/repository/commons-io/commons-io/1.3.2/commons-io-1.3.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-rabbit-1.7.7.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0f7002139fac3cf1f2817a93f9c76ffc010dc262",
+    "jarFileModificationDate": "2018-08-14T10:21:44+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/amqp/spring-rabbit/1.7.7.RELEASE/spring-rabbit-1.7.7.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.fasterxml.jackson.core.jackson-core",
+    "version": {
+      "major": 2,
+      "minor": 9,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a9a71ec1aa37da47db168fede9a4a5fb5e374320",
+    "jarFileModificationDate": "2018-05-16T15:35:28+02:00",
+    "location": "/home/sayedhamed/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.9.4/jackson-core-2.9.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-test-4.3.17.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e35e710720cb3cee1efa3c9cd2f7dc80e579950d",
+    "jarFileModificationDate": "2018-08-14T00:05:35+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/spring-test/4.3.17.RELEASE/spring-test-4.3.17.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "lz4-java",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c708bb2590c0652a642236ef45d9f99ff842a2ce",
+    "jarFileModificationDate": "2018-05-16T11:18:31+02:00",
+    "location": "/home/sayedhamed/.m2/repository/net/jpountz/lz4/lz4/1.3.0/lz4-1.3.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.springframework.data.spring-data-commons",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 5,
+      "qualifier": "RELEASE"
+    },
+    "jarFileFingerprint": "f5357c650f63f3a187d3d4086a9e9132f33851a6",
+    "jarFileModificationDate": "2018-08-16T00:36:01+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.gson",
+    "version": {
+      "major": 2,
+      "minor": 8,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf",
+    "jarFileModificationDate": "2018-05-16T16:41:27+02:00",
+    "location": "/home/sayedhamed/.m2/repository/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.rabbitmq.client",
+    "version": {
+      "major": 4,
+      "minor": 0,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d60d606e214b98c7d4a7e7f96d20b6aec569d7a3",
+    "jarFileModificationDate": "2018-05-16T11:17:53+02:00",
+    "location": "/home/sayedhamed/.m2/repository/com/rabbitmq/amqp-client/4.0.3/amqp-client-4.0.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.gson",
+    "version": {
+      "major": 2,
+      "minor": 8,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d0de1ca9b69e69d1d497ee3c6009d015f64dad57",
+    "jarFileModificationDate": "2018-05-16T11:22:00+02:00",
+    "location": "/home/sayedhamed/.m2/repository/com/google/code/gson/gson/2.8.4/gson-2.8.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "net.bytebuddy.byte-buddy",
+    "version": {
+      "major": 1,
+      "minor": 7,
+      "micro": 9,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "51218a01a882c04d0aba8c028179cce488bbcb58",
+    "jarFileModificationDate": "2018-06-11T14:56:20+02:00",
+    "location": "/home/sayedhamed/.m2/repository/net/bytebuddy/byte-buddy/1.7.9/byte-buddy-1.7.9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.mockito.mockito-core",
+    "version": {
+      "major": 1,
+      "minor": 10,
+      "micro": 19,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e8546f5bef4e061d8dd73895b4e8f40e3fe6effe",
+    "jarFileModificationDate": "2018-05-16T11:20:34+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/mockito/mockito-core/1.10.19/mockito-core-1.10.19.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.springframework.boot.spring-boot-autoconfigure",
+    "version": {
+      "major": 1,
+      "minor": 5,
+      "micro": 13,
+      "qualifier": "RELEASE"
+    },
+    "jarFileFingerprint": "2a08d6cb4a921fd0a58a162669da9f39d5df449c",
+    "jarFileModificationDate": "2018-08-14T00:04:49+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/1.5.13.RELEASE/spring-boot-autoconfigure-1.5.13.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.springframework.boot.spring-boot-starter-web",
+    "version": {
+      "major": 1,
+      "minor": 5,
+      "micro": 13,
+      "qualifier": "RELEASE"
+    },
+    "jarFileFingerprint": "4f77e9c01c13dfe035ebc4b6482da57b5e590b9b",
+    "jarFileModificationDate": "2018-08-14T00:05:13+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/boot/spring-boot-starter-web/1.5.13.RELEASE/spring-boot-starter-web-1.5.13.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.fasterxml.jackson.core.jackson-annotations",
+    "version": {
+      "major": 2,
+      "minor": 8,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "45b426f7796b741035581a176744d91090e2e6fb",
+    "jarFileModificationDate": "2018-05-16T11:16:58+02:00",
+    "location": "/home/sayedhamed/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.yaml.snakeyaml",
+    "version": {
+      "major": 1,
+      "minor": 17,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7a27ea250c5130b2922b86dea63cbb1cc10a660c",
+    "jarFileModificationDate": "2018-05-16T11:15:58+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/yaml/snakeyaml/1.17/snakeyaml-1.17.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "01bbf8ffe3570cc87083e3624c392a86943504eb",
+    "jarFileModificationDate": "2018-04-27T19:27:01+02:00",
+    "location": "/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "tomcat-embed-websocket-8.5.28",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8a5a48740dd80cad644ceb541e77fd8e0809e3b7",
+    "jarFileModificationDate": "2018-05-16T15:38:21+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.28/tomcat-embed-websocket-8.5.28.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "hamcrest-core-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "42a25dc3219429f0e5d060061f71acb49bf010a0",
+    "jarFileModificationDate": "2018-05-16T11:20:36+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.fasterxml.jackson.core.jackson-databind",
+    "version": {
+      "major": 2,
+      "minor": 8,
+      "micro": 11,
+      "qualifier": "1"
+    },
+    "jarFileFingerprint": "341edc63fdd8b44e17b2c36abbc9b451d8fd05a5",
+    "jarFileModificationDate": "2018-05-16T11:16:57+02:00",
+    "location": "/home/sayedhamed/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.8.11.1/jackson-databind-2.8.11.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.springframework.data.mongodb",
+    "version": {
+      "major": 1,
+      "minor": 10,
+      "micro": 12,
+      "qualifier": "RELEASE"
+    },
+    "jarFileFingerprint": "5f46ef6b13dd6a4e336654d9217da9a05ca7f87b",
+    "jarFileModificationDate": "2018-08-14T00:04:54+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/data/spring-data-mongodb/1.10.12.RELEASE/spring-data-mongodb-1.10.12.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "springfox-schema-2.8.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "70ed8275e2277bffe269c8dbd688f54464bf1222",
+    "jarFileModificationDate": "2018-05-16T16:38:52+02:00",
+    "location": "/home/sayedhamed/.m2/repository/io/springfox/springfox-schema/2.8.0/springfox-schema-2.8.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-webmvc-5.0.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "addcf1caa22613c474bd6dde8c7134fef940b1f0",
+    "jarFileModificationDate": "2018-08-16T00:36:19+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/spring-webmvc/5.0.4.RELEASE/spring-webmvc-5.0.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.springframework.hateoas",
+    "version": {
+      "major": 0,
+      "minor": 23,
+      "micro": 0,
+      "qualifier": "RELEASE"
+    },
+    "jarFileFingerprint": "678ffa0798f417a794fea592dc8066e325611919",
+    "jarFileModificationDate": "2018-08-14T10:21:47+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/hateoas/spring-hateoas/0.23.0.RELEASE/spring-hateoas-0.23.0.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpclient",
+    "version": {
+      "major": 4,
+      "minor": 5,
+      "micro": 5,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1603dfd56ebcd583ccdf337b6c3984ac55d89e58",
+    "jarFileModificationDate": "2018-05-16T11:17:41+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.logging.log4j.to-slf4j",
+    "version": {
+      "major": 2,
+      "minor": 10,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f7e631ccf49cfc0aefa4a2a728da7d374c05bd3c",
+    "jarFileModificationDate": "2018-05-16T15:35:20+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/apache/logging/log4j/log4j-to-slf4j/2.10.0/log4j-to-slf4j-2.10.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-boot-starter-json-2.0.0.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "05a09c939d8bd60d7f163c1c0c20a3127ba9fffa",
+    "jarFileModificationDate": "2018-08-16T00:36:02+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/boot/spring-boot-starter-json/2.0.0.RELEASE/spring-boot-starter-json-2.0.0.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "73dca858b534fa9e8b183d0b4f5d53ea9a5dac2a",
+    "jarFileModificationDate": "2018-04-27T19:27:01+02:00",
+    "location": "/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "724fa7f3f50e6ee68a0b6a15b17e5acdf3803f99",
+    "jarFileModificationDate": "2018-04-27T19:27:01+02:00",
+    "location": "/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.hibernate.validator",
+    "version": {
+      "major": 5,
+      "minor": 3,
+      "micro": 6,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "04c730be8bf55a8e9a61e79a2f2c079abf48b718",
+    "jarFileModificationDate": "2018-05-16T11:16:44+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/hibernate/hibernate-validator/5.3.6.Final/hibernate-validator-5.3.6.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "net.bytebuddy.byte-buddy-agent",
+    "version": {
+      "major": 1,
+      "minor": 7,
+      "micro": 10,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9b092a8fb9112b89f6cb23fc929cfb931b14007b",
+    "jarFileModificationDate": "2018-05-16T16:38:40+02:00",
+    "location": "/home/sayedhamed/.m2/repository/net/bytebuddy/byte-buddy-agent/1.7.10/byte-buddy-agent-1.7.10.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.springframework.data.keyvalue",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 12,
+      "qualifier": "RELEASE"
+    },
+    "jarFileFingerprint": "d6b5c46211c61906e2d544d5d1a538ec1a68d2a0",
+    "jarFileModificationDate": "2018-08-14T10:21:45+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/data/spring-data-keyvalue/1.2.12.RELEASE/spring-data-keyvalue-1.2.12.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.springframework.boot.spring-boot-starter-data-rest",
+    "version": {
+      "major": 1,
+      "minor": 5,
+      "micro": 13,
+      "qualifier": "RELEASE"
+    },
+    "jarFileFingerprint": "0c8df6c53f90107a445fed48fec2466a5e25782f",
+    "jarFileModificationDate": "2018-08-14T10:21:40+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/boot/spring-boot-starter-data-rest/1.5.13.RELEASE/spring-boot-starter-data-rest-1.5.13.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "net.bytebuddy.byte-buddy",
+    "version": {
+      "major": 1,
+      "minor": 7,
+      "micro": 10,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3c8ec287c0a5bd04b1e3f11723bc46a50346602b",
+    "jarFileModificationDate": "2018-05-16T16:38:40+02:00",
+    "location": "/home/sayedhamed/.m2/repository/net/bytebuddy/byte-buddy/1.7.10/byte-buddy-1.7.10.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-webmvc-4.3.17.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ee8dd0c586481e795787dc8b28a39e0418cb8fa2",
+    "jarFileModificationDate": "2018-08-14T00:05:24+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/spring-webmvc/4.3.17.RELEASE/spring-webmvc-4.3.17.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.objectweb.asm",
+    "version": {
+      "major": 5,
+      "minor": 0,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "dcc2193db20e19e1feca8b1240dbbc4e190824fa",
+    "jarFileModificationDate": "2018-05-16T11:19:55+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/ow2/asm/asm/5.0.3/asm-5.0.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.skyscreamer.jsonassert",
+    "version": {
+      "major": 1,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9cdbb373a06f6513e51e8c545ee6a5e981463edb",
+    "jarFileModificationDate": "2018-05-16T11:20:44+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/skyscreamer/jsonassert/1.4.0/jsonassert-1.4.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "junit-4.12",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2973d150c0dc1fefe998f834810d68f278ea58ec",
+    "jarFileModificationDate": "2018-05-16T11:20:01+02:00",
+    "location": "/home/sayedhamed/.m2/repository/junit/junit/4.12/junit-4.12.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-jcl-5.0.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3053e2bad0a18571bdbb9596ce51f9d458f5934f",
+    "jarFileModificationDate": "2018-08-16T00:36:39+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/spring-jcl/5.0.4.RELEASE/spring-jcl-5.0.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.mongodb.bson",
+    "version": {
+      "major": 3,
+      "minor": 4,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "83a9328ce8ffbdf29f4b46b531012427983ad3ec",
+    "jarFileModificationDate": "2018-05-16T11:18:07+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/mongodb/bson/3.4.3/bson-3.4.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.yaml.snakeyaml",
+    "version": {
+      "major": 1,
+      "minor": 19,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2d998d3d674b172a588e54ab619854d073f555b5",
+    "jarFileModificationDate": "2018-05-16T15:35:23+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/yaml/snakeyaml/1.19/snakeyaml-1.19.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-aop-5.0.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f8e029e54c0267dadb6b9f713f3feb54ec4f3a0e",
+    "jarFileModificationDate": "2018-08-16T00:36:21+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/spring-aop/5.0.4.RELEASE/spring-aop-5.0.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.objenesis",
+    "version": {
+      "major": 2,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "639033469776fd37c08358c6b92a4761feb2af4b",
+    "jarFileModificationDate": "2018-05-16T16:38:40+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/objenesis/objenesis/2.6/objenesis-2.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.xmlunit.xmlunit-core",
+    "version": {
+      "major": 2,
+      "minor": 5,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4ffdb346572a7356f7521cd3119ce5287d2e339d",
+    "jarFileModificationDate": "2018-05-16T16:38:41+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/xmlunit/xmlunit-core/2.5.1/xmlunit-core-2.5.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "gnu-crypto-2.0.1",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f53ad21694351e9cc3b4bfb2f5c1bb68aa4d2bae",
+    "jarFileModificationDate": "2018-05-16T11:21:43+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/gnu/gnu-crypto/2.0.1/gnu-crypto-2.0.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javax.annotation-api",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "934c04d3cfef185a8008e7bf34331b79730a9d43",
+    "jarFileModificationDate": "2018-05-16T15:35:22+02:00",
+    "location": "/home/sayedhamed/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-beans-4.3.17.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6f8ce46b6f446b8875f0b3160b6b1978973d4d0b",
+    "jarFileModificationDate": "2018-08-14T00:05:06+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/spring-beans/4.3.17.RELEASE/spring-beans-4.3.17.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.springframework.boot.spring-boot-test",
+    "version": {
+      "major": 1,
+      "minor": 5,
+      "micro": 13,
+      "qualifier": "RELEASE"
+    },
+    "jarFileFingerprint": "8eb4c6dc64592adca85a16382c63f6a3460b3d1f",
+    "jarFileModificationDate": "2018-08-14T00:05:26+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/boot/spring-boot-test/1.5.13.RELEASE/spring-boot-test-1.5.13.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-kafka-1.1.8.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ba43e11394e2c13cda924c328b12d9424cd599ce",
+    "jarFileModificationDate": "2018-08-14T10:21:46+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/kafka/spring-kafka/1.1.8.RELEASE/spring-kafka-1.1.8.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.mongodb.bson",
+    "version": {
+      "major": 3,
+      "minor": 6,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6c85ddf1fc96eb8776213bef6665d005a564ecd3",
+    "jarFileModificationDate": "2018-05-16T16:41:33+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/mongodb/bson/3.6.3/bson-3.6.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-boot-starter-logging-2.0.0.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fe939b71659ef1f98a53cce0b5bcf771685cf6a6",
+    "jarFileModificationDate": "2018-08-16T00:35:29+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/boot/spring-boot-starter-logging/2.0.0.RELEASE/spring-boot-starter-logging-2.0.0.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.atteo.evo-inflector",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2551aad98d65ac5464d81fe05f0e1516cfe471c9",
+    "jarFileModificationDate": "2018-05-16T15:35:29+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/atteo/evo-inflector/1.2.2/evo-inflector-1.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.assertj.core",
+    "version": {
+      "major": 2,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b532c3fc4f66bcfee4989a3514f1cd56203a33ad",
+    "jarFileModificationDate": "2018-05-16T11:20:17+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/assertj/assertj-core/2.6.0/assertj-core-2.6.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-boot-starter-2.0.0.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6d7d8e4bf053cd1833f3c7dbce676bc274f0892f",
+    "jarFileModificationDate": "2018-08-16T00:35:13+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/boot/spring-boot-starter/2.0.0.RELEASE/spring-boot-starter-2.0.0.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.objectweb.asm",
+    "version": {
+      "major": 5,
+      "minor": 0,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0da08b8cce7bbf903602a25a3a163ae252435795",
+    "jarFileModificationDate": "2018-05-16T16:38:16+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/ow2/asm/asm/5.0.4/asm-5.0.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "luaj-jse-3.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fa029dd9be40830d3225e010057d6dcb76c9342d",
+    "jarFileModificationDate": "2018-05-16T11:21:45+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/luaj/luaj-jse/3.0/luaj-jse-3.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "tomcat-embed-websocket-8.5.31",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "06564e716b89de5eaa0dd234ae7989576503ddf3",
+    "jarFileModificationDate": "2018-05-16T11:16:39+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.31/tomcat-embed-websocket-8.5.31.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-boot-test-2.0.0.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1565e78c2801bd3c7ece0a8ddc08e5ed53676878",
+    "jarFileModificationDate": "2018-08-16T00:36:23+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/boot/spring-boot-test/2.0.0.RELEASE/spring-boot-test-2.0.0.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f9e269151ca008dfd56fc0ad49ee8f0332c70019",
+    "jarFileModificationDate": "2018-04-27T19:27:01+02:00",
+    "location": "/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-boot-2.0.0.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "771da2071ff14a47f108642a641c204ae4ef7b15",
+    "jarFileModificationDate": "2018-08-16T00:35:19+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/boot/spring-boot/2.0.0.RELEASE/spring-boot-2.0.0.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "springfox-bean-validators-2.8.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e976e3abef6b1332a53c6ede381054f25ff2207d",
+    "jarFileModificationDate": "2018-05-16T16:39:11+02:00",
+    "location": "/home/sayedhamed/.m2/repository/io/springfox/springfox-bean-validators/2.8.0/springfox-bean-validators-2.8.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.fasterxml.jackson.core.jackson-databind",
+    "version": {
+      "major": 2,
+      "minor": 9,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "498bbc3b94f566982c7f7c6d4d303fce365529be",
+    "jarFileModificationDate": "2018-05-16T15:35:27+02:00",
+    "location": "/home/sayedhamed/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.9.4/jackson-databind-2.9.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.mongodb.mongo-java-driver",
+    "version": {
+      "major": 3,
+      "minor": 4,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e8fa9a9ce6ea827cbff320dc0d46c6483777654c",
+    "jarFileModificationDate": "2018-06-14T11:14:02+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/mongodb/mongo-java-driver/3.4.3/mongo-java-driver-3.4.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "io.swagger.annotations",
+    "version": {
+      "major": 1,
+      "minor": 5,
+      "micro": 14,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "989c19cd0a90768885532318ca5fd7ea16290cc8",
+    "jarFileModificationDate": "2018-05-16T16:38:51+02:00",
+    "location": "/home/sayedhamed/.m2/repository/io/swagger/swagger-annotations/1.5.14/swagger-annotations-1.5.14.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "tomcat-embed-core-8.5.28",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b684c98cf77c6528079c4e59fc1feeb218bf82f1",
+    "jarFileModificationDate": "2018-05-16T15:38:19+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/8.5.28/tomcat-embed-core-8.5.28.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.springframework.boot.spring-boot",
+    "version": {
+      "major": 1,
+      "minor": 5,
+      "micro": 13,
+      "qualifier": "RELEASE"
+    },
+    "jarFileFingerprint": "24f1f2ba3af3409ec1829e116a689ffebcaf300a",
+    "jarFileModificationDate": "2018-08-14T00:04:44+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/boot/spring-boot/1.5.13.RELEASE/spring-boot-1.5.13.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-security-test-5.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "dedd250e8d29851183c2bd6073430fc7005fe8d0",
+    "jarFileModificationDate": "2018-08-16T00:36:47+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/security/spring-security-test/5.0.3.RELEASE/spring-security-test-5.0.3.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-expression-4.3.17.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a7ed4d874c28aca9ad8cd1a65c58eb62c05994b7",
+    "jarFileModificationDate": "2018-08-14T00:05:08+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/spring-expression/4.3.17.RELEASE/spring-expression-4.3.17.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "df8ae272bd6db340de95e84a2489612f107ca2df",
+    "jarFileModificationDate": "2018-04-27T20:42:15+02:00",
+    "location": "/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/icedtea-sound.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "net.minidev.json-smart",
+    "version": {
+      "major": 2,
+      "minor": 3,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "007396407491352ce4fa30de92efb158adb76b5b",
+    "jarFileModificationDate": "2018-05-16T16:38:16+02:00",
+    "location": "/home/sayedhamed/.m2/repository/net/minidev/json-smart/2.3/json-smart-2.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.jayway.jsonpath.json-path",
+    "version": {
+      "major": 2,
+      "minor": 4,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "765a4401ceb2dc8d40553c2075eb80a8fa35c2ae",
+    "jarFileModificationDate": "2018-05-16T16:38:15+02:00",
+    "location": "/home/sayedhamed/.m2/repository/com/jayway/jsonpath/json-path/2.4.0/json-path-2.4.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.json",
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "micro": 20131108,
+      "qualifier": "vaadin1"
+    },
+    "jarFileFingerprint": "fa26d351fe62a6a17f5cda1287c1c6110dec413f",
+    "jarFileModificationDate": "2018-05-16T11:20:45+02:00",
+    "location": "/home/sayedhamed/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "springfox-spi-2.8.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "efe49b45357dd9f6c27799a5f7f5ba1ce6bdc05f",
+    "jarFileModificationDate": "2018-05-16T16:38:52+02:00",
+    "location": "/home/sayedhamed/.m2/repository/io/springfox/springfox-spi/2.8.0/springfox-spi-2.8.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-context-support-4.3.17.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "db705a26b5ec01ab9af5f3e3b98071474c1faed4",
+    "jarFileModificationDate": "2018-08-14T10:21:46+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/spring-context-support/4.3.17.RELEASE/spring-context-support-4.3.17.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.springframework.retry.spring-retry",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 2,
+      "qualifier": "RELEASE"
+    },
+    "jarFileFingerprint": "638928732585c450e461f0a132b6834ad7cf3af0",
+    "jarFileModificationDate": "2018-08-14T10:21:47+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/retry/spring-retry/1.2.2.RELEASE/spring-retry-1.2.2.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.mongodb.driver-core",
+    "version": {
+      "major": 3,
+      "minor": 6,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f2c41ad5349cdb65a6f7bde16f5ebae9a0dbe5f5",
+    "jarFileModificationDate": "2018-05-16T16:41:35+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/mongodb/mongodb-driver-core/3.6.3/mongodb-driver-core-3.6.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.springframework.data.spring-data-mongodb",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 5,
+      "qualifier": "RELEASE"
+    },
+    "jarFileFingerprint": "afe7102594867bae9be8d07cc0a900876f301bc0",
+    "jarFileModificationDate": "2018-08-16T00:35:37+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/data/spring-data-mongodb/2.0.5.RELEASE/spring-data-mongodb-2.0.5.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-security-web-5.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1c688054bfe015bcd067426f5ad77c01dd6486ac",
+    "jarFileModificationDate": "2018-08-16T00:37:04+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/security/spring-security-web/5.0.3.RELEASE/spring-security-web-5.0.3.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.skyscreamer.jsonassert",
+    "version": {
+      "major": 1,
+      "minor": 5,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6c9d5fe2f59da598d9aefc1cfc6528ff3cf32df3",
+    "jarFileModificationDate": "2018-05-16T16:38:41+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/skyscreamer/jsonassert/1.5.0/jsonassert-1.5.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "mongodb-driver-3.4.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a1c708919fdca8da4a527cb4ea9df30f8db9993b",
+    "jarFileModificationDate": "2018-05-16T11:17:59+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/mongodb/mongodb-driver/3.4.3/mongodb-driver-3.4.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-boot-autoconfigure-2.0.0.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c89896a469ecf92996ecba40755919896ace5470",
+    "jarFileModificationDate": "2018-08-16T00:35:28+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.0.0.RELEASE/spring-boot-autoconfigure-2.0.0.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-plugin-metadata",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": "RELEASE"
+    },
+    "jarFileFingerprint": "97223fc496b6cab31602eedbd4202aa4fff0d44f",
+    "jarFileModificationDate": "2018-08-13T23:12:55+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/plugin/spring-plugin-metadata/1.2.0.RELEASE/spring-plugin-metadata-1.2.0.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-web-5.0.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9565bbc67bf1a850a6505deaa5103931712a7b80",
+    "jarFileModificationDate": "2018-08-16T00:36:12+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/spring-web/5.0.4.RELEASE/spring-web-5.0.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-aop-4.3.17.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b83e9434298106e7705b31150aee2d4e0fb2cf61",
+    "jarFileModificationDate": "2018-08-14T00:05:20+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/spring-aop/4.3.17.RELEASE/spring-aop-4.3.17.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.mongodb.driver-core",
+    "version": {
+      "major": 3,
+      "minor": 4,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c588da4e7b4ac9330e58d4d5b414508ccb14367b",
+    "jarFileModificationDate": "2018-05-16T11:18:05+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/mongodb/mongodb-driver-core/3.4.3/mongodb-driver-core-3.4.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-amqp-1.7.7.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9484be9392e48ec5d96c411b275eb9be58bef024",
+    "jarFileModificationDate": "2018-08-14T10:21:45+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/amqp/spring-amqp/1.7.7.RELEASE/spring-amqp-1.7.7.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.mockito.mockito-core",
+    "version": {
+      "major": 2,
+      "minor": 15,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b84bfbbc29cd22c9529409627af6ea2897f4fa85",
+    "jarFileModificationDate": "2018-05-16T16:38:30+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/mockito/mockito-core/2.15.0/mockito-core-2.15.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "ch.qos.logback.classic",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 11,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ccedfbacef4a6515d2983e3f89ed753d5d4fb665",
+    "jarFileModificationDate": "2018-05-16T11:15:48+02:00",
+    "location": "/home/sayedhamed/.m2/repository/ch/qos/logback/logback-classic/1.1.11/logback-classic-1.1.11.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "springfox-swagger-ui-2.8.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2b895560df9cd70a2e93119188981b004b4e2ad5",
+    "jarFileModificationDate": "2018-05-16T16:39:11+02:00",
+    "location": "/home/sayedhamed/.m2/repository/io/springfox/springfox-swagger-ui/2.8.0/springfox-swagger-ui-2.8.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8ef29f32603cc774c01d09683f752a0ce370ab24",
+    "jarFileModificationDate": "2018-04-27T19:27:01+02:00",
+    "location": "/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "tomcat-annotations-api-8.5.31",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f0758d8b5d1404cc25f98945bdd5959699658b4a",
+    "jarFileModificationDate": "2018-05-16T11:16:35+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/apache/tomcat/tomcat-annotations-api/8.5.31/tomcat-annotations-api-8.5.31.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "tomcat-embed-el-8.5.31",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3a536e1ac71b82627c3a7408eb38fa0704cb9034",
+    "jarFileModificationDate": "2018-05-16T11:16:37+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/apache/tomcat/embed/tomcat-embed-el/8.5.31/tomcat-embed-el-8.5.31.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "net.minidev.json-smart",
+    "version": {
+      "major": 2,
+      "minor": 2,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5b9e5df7a62d1279b70dc882b041d249c4f0b002",
+    "jarFileModificationDate": "2018-05-16T11:19:45+02:00",
+    "location": "/home/sayedhamed/.m2/repository/net/minidev/json-smart/2.2.1/json-smart-2.2.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "net.minidev.accessors-smart",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c592b500269bfde36096641b01238a8350f8aa31",
+    "jarFileModificationDate": "2018-05-16T16:38:16+02:00",
+    "location": "/home/sayedhamed/.m2/repository/net/minidev/accessors-smart/1.2/accessors-smart-1.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jul.to.slf4j",
+    "version": {
+      "major": 1,
+      "minor": 7,
+      "micro": 25,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0af5364cd6679bfffb114f0dec8a157aaa283b76",
+    "jarFileModificationDate": "2018-05-16T11:15:54+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/slf4j/jul-to-slf4j/1.7.25/jul-to-slf4j-1.7.25.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.xerial.snappy.snappy-java",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 2,
+      "qualifier": "6"
+    },
+    "jarFileFingerprint": "48d92871ca286a47f230feb375f0bbffa83b85f6",
+    "jarFileModificationDate": "2018-05-16T11:18:46+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/xerial/snappy/snappy-java/1.1.2.6/snappy-java-1.1.2.6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.assertj.core",
+    "version": {
+      "major": 3,
+      "minor": 9,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c5ce126b15f28d56cd8f960c1a6a058b9c9aea87",
+    "jarFileModificationDate": "2018-05-16T16:38:28+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/assertj/assertj-core/3.9.1/assertj-core-3.9.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-plugin-core",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": "RELEASE"
+    },
+    "jarFileFingerprint": "f380e7760032e7d929184f8ad8a33716b75c0657",
+    "jarFileModificationDate": "2018-08-13T23:12:55+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/plugin/spring-plugin-core/1.2.0.RELEASE/spring-plugin-core-1.2.0.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "log4j.over.slf4j",
+    "version": {
+      "major": 1,
+      "minor": 7,
+      "micro": 25,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a87bb47468f47ee7aabbd54f93e133d4215769c3",
+    "jarFileModificationDate": "2018-05-16T11:15:55+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/slf4j/log4j-over-slf4j/1.7.25/log4j-over-slf4j-1.7.25.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.jayway.jsonpath.json-path",
+    "version": {
+      "major": 2,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "22290d17944bd239fabf5ac69005a60a7ecbbbcb",
+    "jarFileModificationDate": "2018-05-16T11:19:33+02:00",
+    "location": "/home/sayedhamed/.m2/repository/com/jayway/jsonpath/json-path/2.2.0/json-path-2.2.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore",
+    "version": {
+      "major": 4,
+      "minor": 4,
+      "micro": 9,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a86ce739e5a7175b4b234c290a00a5fdb80957a0",
+    "jarFileModificationDate": "2018-05-16T11:17:44+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4b788e2a6480b1246e20109c7443f66f5e2d4f22",
+    "jarFileModificationDate": "2018-04-27T19:27:01+02:00",
+    "location": "/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jcl.over.slf4j",
+    "version": {
+      "major": 1,
+      "minor": 7,
+      "micro": 25,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f8c32b13ff142a513eeb5b6330b1588dcb2c0461",
+    "jarFileModificationDate": "2018-05-16T11:21:51+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9a74ec11131182ab1b506403cf54bb4e27a5ac47",
+    "jarFileModificationDate": "2018-04-27T19:27:01+02:00",
+    "location": "/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-test-5.0.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3fc10b6535a113593fa8780951465012a7677e21",
+    "jarFileModificationDate": "2018-08-16T00:36:45+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/spring-test/5.0.4.RELEASE/spring-test-5.0.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.springframework.boot.spring-boot-starter",
+    "version": {
+      "major": 1,
+      "minor": 5,
+      "micro": 13,
+      "qualifier": "RELEASE"
+    },
+    "jarFileFingerprint": "908f50d2df2fc4c7db1753da43d2de9c6d16d0e5",
+    "jarFileModificationDate": "2018-08-14T00:04:41+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/boot/spring-boot-starter/1.5.13.RELEASE/spring-boot-starter-1.5.13.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f07ebd2ed47df485e96367e12faedb1a3e375b70",
+    "jarFileModificationDate": "2018-04-27T19:27:01+02:00",
+    "location": "/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/cldrdata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-web-4.3.17.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2786be085d48f0b6d304a89cbbd186a969aa92aa",
+    "jarFileModificationDate": "2018-08-14T00:05:17+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/spring-web/4.3.17.RELEASE/spring-web-4.3.17.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "javax.validation.api",
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "micro": 1,
+      "qualifier": "Final"
+    },
+    "jarFileFingerprint": "cb855558e6271b1b32e716d24cb85c7f583ce09e",
+    "jarFileModificationDate": "2018-05-16T16:38:02+02:00",
+    "location": "/home/sayedhamed/.m2/repository/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.logging.log4j.api",
+    "version": {
+      "major": 2,
+      "minor": 10,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fec5797a55b786184a537abd39c3fa1449d752d6",
+    "jarFileModificationDate": "2018-05-16T15:35:21+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/apache/logging/log4j/log4j-api/2.10.0/log4j-api-2.10.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "joda-time",
+    "version": {
+      "major": 2,
+      "minor": 9,
+      "micro": 9,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f7b520c458572890807d143670c9b24f4de90897",
+    "jarFileModificationDate": "2018-05-16T11:21:58+02:00",
+    "location": "/home/sayedhamed/.m2/repository/joda-time/joda-time/2.9.9/joda-time-2.9.9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "ch.qos.logback.core",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 11,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "88b8df40340eed549fb07e2613879bf6b006704d",
+    "jarFileModificationDate": "2018-05-16T11:15:54+02:00",
+    "location": "/home/sayedhamed/.m2/repository/ch/qos/logback/logback-core/1.1.11/logback-core-1.1.11.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "springfox-core-2.8.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5f0fbaa34cc01dfca7089000c4943629d7e1c9dc",
+    "jarFileModificationDate": "2018-05-16T16:38:52+02:00",
+    "location": "/home/sayedhamed/.m2/repository/io/springfox/springfox-core/2.8.0/springfox-core-2.8.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-security-core-5.0.3.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6cc79dd1db872ff306a3c9ae9e5c047b649c84e3",
+    "jarFileModificationDate": "2018-08-16T00:36:55+02:00",
+    "location": "/home/sayedhamed/.m2/repository/org/springframework/security/spring-security-core/5.0.3.RELEASE/spring-security-core-5.0.3.RELEASE.jar",
+    "javaRuntime": false
+  }
+]

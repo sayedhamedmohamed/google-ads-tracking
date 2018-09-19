@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.weq.adtech.ads.tracking.constants.PropertyName" project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/constants/PropertyName.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="167" width="177" x="107" y="-42"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.weq.adtech.ads.tracking.exception.WeqAdsTrackingException" 
+    project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/exception/WeqAdsTrackingException.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="131" width="200" x="726" y="-42"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.weq.adtech.ads.tracking.exception.ServerErrorException" 
+    project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/exception/ServerErrorException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="95" width="176" x="618" y="597"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="4" language="java" name="com.weq.adtech.ads.tracking.repository.DeliveryRepository" 
+    project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/repository/DeliveryRepository.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="95" width="208" x="3502" y="1191"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="5" language="java" name="com.weq.adtech.ads.tracking.model.DeliveryCount" project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/model/DeliveryCount.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="239" width="161" x="324" y="-42"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.weq.adtech.ads.tracking.handlers.WeqAdsStatisticsHandler" 
+    project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/handlers/WeqAdsStatisticsHandler.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="113" width="228" x="3234" y="597"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.weq.adtech.ads.tracking.exception.BadRequestException" 
+    project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/exception/BadRequestException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="95" width="176" x="834" y="597"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.weq.adtech.ads.tracking.model.Interval" project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/model/Interval.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="203" width="161" x="3033" y="597"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.weq.adtech.ads.tracking.model.Install" project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/model/Install.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="221" width="161" x="525" y="-42"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.weq.adtech.ads.tracking.handlers.WeqAdsDeliveryHandler" 
+    project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/handlers/WeqAdsDeliveryHandler.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="95" width="186" x="3502" y="597"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.weq.adtech.ads.tracking.model.Delivery" project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/model/Delivery.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="599" width="257" x="966" y="-42"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.weq.adtech.ads.tracking.model.Click" project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/model/Click.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="221" width="161" x="1263" y="-42"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.weq.adtech.ads.tracking.model.AdsStatistics" project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/model/AdsStatistics.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="203" width="223" x="2993" y="-42"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.weq.adtech.ads.tracking.model.Stats" project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/model/Stats.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="203" width="161" x="2993" y="840"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="com.weq.adtech.ads.tracking.config.SwaggerConfig" project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/config/SwaggerConfig.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="131" width="294" x="1464" y="-42"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="com.weq.adtech.ads.tracking.constants.AppConstants" project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/constants/AppConstants.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="149" width="212" x="1798" y="-42"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.weq.adtech.ads.tracking.controller.WeqAdsTrackingController" 
+    project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/controller/WeqAdsTrackingController.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="221" width="473" x="3603" y="-42"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.weq.adtech.ads.tracking.config.WeqLogger" project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/config/WeqLogger.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="95" width="161" x="2050" y="-42"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="com.weq.adtech.ads.tracking.services.WeqAdsTrackingService" 
+    project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/services/WeqAdsTrackingService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="311" width="385" x="3502" y="840"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="20" language="java" name="com.weq.adtech.ads.tracking.handlers.WeqAdsTrackingManager" 
+    project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/handlers/WeqAdsTrackingManager.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="77" width="192" x="3927" y="840"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="21" language="java" name="com.weq.adtech.ads.tracking.model.Fields" project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/model/Fields.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="167" width="161" x="2792" y="840"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="com.weq.adtech.ads.tracking.Startup" project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/Startup.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="95" width="133" x="2251" y="-42"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="com.weq.adtech.ads.tracking.config.ApplicationConfig" project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/config/ApplicationConfig.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="149" width="328" x="2424" y="-42"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="com.weq.adtech.ads.tracking.handlers.WeqAdsClicksHandler" 
+    project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/handlers/WeqAdsClicksHandler.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="95" width="174" x="3947" y="597"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="com.weq.adtech.ads.tracking.config.GeneralConfig" project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/config/GeneralConfig.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="113" width="161" x="2792" y="-42"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="com.weq.adtech.ads.tracking.model.StatsDetails" project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/model/StatsDetails.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="131" width="161" x="2811" y="597"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="com.weq.adtech.ads.tracking.handlers.WeqAdsInstallsHandler" 
+    project="weq-ads-tracker" 
+    file="/weq-ads-tracker/src/main/java/com/weq/adtech/ads/tracking/handlers/WeqAdsInstallsHandler.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="95" width="179" x="3728" y="597"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="28">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <association id="29">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="30" name="weqAdsClicksHandler"/>      
+      <multiplicity id="31" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="32">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="33" name="weqAdsTrackingService"/>      
+      <multiplicity id="34" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="35">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="36" name="weqAdsInstallsHandler"/>      
+      <multiplicity id="37" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="38">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="39" name="interval"/>      
+      <multiplicity id="40" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="41">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <association id="42">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="43" name="fields"/>      
+      <multiplicity id="44" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="45">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="46" name="weqAdsTrackingService"/>      
+      <multiplicity id="47" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="48">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="49" name="weqAdsDeliveryHandler"/>      
+      <multiplicity id="50" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="51">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="52" name="weqAdsTrackingService"/>      
+      <multiplicity id="53" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="54">    
+    <bendpoint x="3002" y="597"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="55" name="stats"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="57">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <generalization id="58">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="2"/>  
+  </generalization>  
+  <association id="59">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="60" name="deliveryRepository"/>      
+      <multiplicity id="61" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="62">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="63" name="weqAdsStatisticsHandler"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="65">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="66" name="data"/>      
+      <multiplicity id="67" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="68">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="69" name="stats"/>      
+      <multiplicity id="70" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="71">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <association id="72">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="73" name="weqAdsTrackingService"/>      
+      <multiplicity id="74" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
