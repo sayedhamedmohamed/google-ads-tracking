@@ -8,7 +8,6 @@ import com.weq.adtech.ads.tracking.exception.BadRequestException;
  * @author Sayed Hamed
  * @param <T> the generic type
  */
-@FunctionalInterface
 public interface WeqAdsTrackingManager<T> {
 
 	/**
